@@ -25,26 +25,23 @@ jobs:
 
           base = "FORMATIONAE-2026"
           lines = ["- [Accueil](/)\n"]
+          EXCLUDE = ['images', 'assets', 'media']
 
           entries = os.listdir(base)
           
-          # Séparer modules numérotés et autres dossiers
           numbered = []
           others = []
           for entry in entries:
-            EXCLUDE = ['images', 'assets', 'media']
-              if os.path.isdir(os.path.join(base, entry)) and entry not in EXCLUDE:
+            if os.path.isdir(os.path.join(base, entry)) and entry not in EXCLUDE:
               if re.match(r'Module-\d+_', entry):
                 numbered.append(entry)
               else:
                 others.append(entry)
 
-          # Trier les modules par numéro
           numbered.sort(key=lambda x: int(re.search(r'Module-(\d+)_', x).group(1)))
           others.sort()
 
           for folder in numbered + others:
-            # Nom affiché : "Module-1_EXPRESSIONS" → "Module 1 — EXPRESSIONS"
             label = re.sub(r'Module-(\d+)_(\S+)', r'Module \1 — \2', folder)
             lines.append(f"\n- **{label}**\n")
             folder_path = os.path.join(base, folder)
