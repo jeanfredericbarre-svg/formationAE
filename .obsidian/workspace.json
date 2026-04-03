@@ -174,15 +174,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7ab935d61303f39c",
-  "lastOpenFiles": []
+  "active": "48813cb9114a6ba8",
+  "lastOpenFiles": [
+    "GitHub/Bienvenue.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/Les bases et la syntaxe.md"
+  ]
 }
