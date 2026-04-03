@@ -1,4 +1,5 @@
 - [Accueil](/)
 
 - **Module 1 — EXPRESSIONS**
-  - [1. Les bases et la syntaxe](1.%20Les%20bases%20et%20la%20syntaxe.md)
+  - [Les bases et la syntaxe](FORMATIONAE-2026/Module-1_EXPRESSIONS/1.%20Les%20bases%20et%20la%20syntaxe.md)
+  - [Expressions fondamentales](FORMATIONAE-2026/Module-1_EXPRESSIONS/2.%20Expressions%20fondamentales.md)
