@@ -48,7 +48,7 @@ jobs:
             folder_path = os.path.join(base, folder)
             files = sorted([f for f in os.listdir(folder_path) if f.endswith('.md')])
             for f in files:
-              name = f.replace('.md', '')
+              name = re.sub(r'^\d+\.\s*', '', f.replace('.md', ''))
               path = f"{base}/{folder}/{f.replace(' ', '%20')}"
               lines.append(f"  - [{name}]({path})\n")
 

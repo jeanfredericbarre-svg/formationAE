@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ab935d61303f39c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/Les bases et la syntaxe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Les bases et la syntaxe"
-            }
-          },
-          {
             "id": "0904bd54e7ce2817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/Les bases et la syntaxe.md",
-                "mode": "preview",
+                "file": "FORMATIONAE-2026/Formation After Effects brouillon.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Les bases et la syntaxe"
+              "title": "Formation After Effects brouillon"
+            }
+          },
+          {
+            "id": "0a597c88d492d103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Expressions fondamentales"
             }
           }
         ],
@@ -198,13 +198,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "0904bd54e7ce2817",
+  "active": "0a597c88d492d103",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
+    "FORMATIONAE-2026/Formation After Effects brouillon.md",
     "NOTES-PROJET.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/Les bases et la syntaxe.md",
     "FORMATIONAE-2026/images/proprietes.png",
     "FORMATIONAE-2026/images",
-    "FORMATIONAE-2026/Formation After Effects brouillon.md",
     "Nouveau dossier",
     "GitHub/Bienvenue.md"
   ]

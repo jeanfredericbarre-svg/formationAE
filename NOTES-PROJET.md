@@ -1,4 +1,4 @@
-## Conventions de nommage des dossiers
+## Conventions de nommage des dossiers et pages
 
 Les dossiers dans `FORMATIONAE-2026/` suivent deux conventions :
 
@@ -7,8 +7,12 @@ Format : `Module-X_NOM`
 Exemples :
 - `Module-1_EXPRESSIONS`
 - `Module-2_ANIMATION`
+### Pages numérotés
+Format : `1. Nom de la page`
+Exemples :
+- `1. Les bases`
 
-Ces dossiers sont triés automatiquement par numéro dans la sidebar.
+Ces dossiers et pages sont triés automatiquement par numéro dans la sidebar.
 
 ### Autres dossiers
 Exemples :
