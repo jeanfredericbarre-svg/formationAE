@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2. Expressions fondamentales"
+              "title": "1. Les bases et la syntaxe"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "0a597c88d492d103",
   "lastOpenFiles": [
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
     "FORMATIONAE-2026/Formation After Effects brouillon.md",
     "NOTES-PROJET.md",
     "FORMATIONAE-2026/images/proprietes.png",
