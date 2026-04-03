@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Formation After Effects - 2026</title>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
   <style>
     /* --- Typographie --- */
     body {
@@ -66,17 +67,28 @@
       font-size: 1.1em;
     }
 
-    /* --- Blocs de code --- */
-    code {
-      background-color: #efefff;
-      color: #3333AA;
-      border-radius: 3px;
-      padding: 2px 5px;
-    }
-    pre {
-      background-color: #f0f0ff !important;
-      border-left: 4px solid #9999FF;
-    }
+/* --- Blocs de code --- */
+code {
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+  background-color: #1e1e2e;
+  color: #cdd6f4;
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-size: 0.9em;
+}
+pre {
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace !important;
+  background-color: #1e1e2e !important;
+  border-left: 3px solid #6666CC;
+  border-radius: 4px;
+  padding: 1em 1.2em !important;
+}
+pre code {
+  background-color: transparent;
+  color: #cdd6f4;
+  padding: 0;
+  font-size: 0.88em;
+}
 
     /* --- Barre de progression --- */
     #nprogress .bar {
