@@ -62,6 +62,7 @@ time * 10                           // ✅ un seul nombre
 ```
 Si tu retournes le mauvais type, AE affiche une erreur .
 
+
 # 2 sources essentielles
 
 - Référence du langage JavaScript -> https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference
