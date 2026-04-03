@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'FORMATIONAE-2026/**'
+  workflow_dispatch:
 
 jobs:
   generate-sidebar:
