@@ -1,8 +1,0 @@
-Une expression est TOUJOURS attachée à une propriété, et ne fera qu'une seule chose : envoyer un résultat à cette propriété.
-![[proprietes.png]]
-Dans cet exemple, la propriété "Taille" a une expression (les valeurs sont rouges). Il est essentiel de noter que la propriété "Taille" ou la propriété "Position" possèdent 2 valeurs alors que la propriété "Arrondi" n'en possède qu'une. C'est logique, la taille s'exprime en largeur et hauteur, la position s'exprime en position x ou position y, l'arrondi s'exprime lui avec une seule valeur. Ce qui est important de comprendre c'est qu'une expression DEVRA RENVOYER UNE VALEUR SIMILAIRE. Si le résultat d'une expression appliquée à la propriété Position est par exemple 12, alors message d'erreur que nous pourrons traduire par "ah non, pas possible, pour cette propriété il me faut 2 valeurs séparées par une virgule." Ceci est valable pour toutes les propriétés.
-
-
-elle peut récupérer la valeur d'une autre propriété mais NE PEUT PAS MODIFIER une valeur autre que celle dans laquelle elle est écrite. Une expression NE PEUT PAS créer des éléments, pour cela il faudra passer par un script et c'est un tout autre dossier.
-
-Une expression est un **fragment de code JavaScript** attaché à une **propriété animable** d'un calque (position, opacité, rotation…). À chaque frame, After Effects **évalue ce code** et utilise le résultat comme valeur de la propriété.
