@@ -1,7 +1,8 @@
-# Bienvenue dans mon cours
+# Formation After Effects
 
 Ce cours aborde les thématiques suivantes...
 
 ## Objectifs
-- Comprendre X
-- Maîtriser Y
+- Comprendre les bases des Expressions
+- La structure grammaticale des Expressions
+- ... un autre objectif
