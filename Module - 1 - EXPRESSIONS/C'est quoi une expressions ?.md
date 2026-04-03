@@ -1,0 +1,3 @@
+Une expression est TOUJOURS attachée à une propriété, elle peut récupérer la valeur d'une autre propriété mais NE PEUT PAS MODIFIER une valeur autre que celle dans laquelle elle est écrite. Une expression NE PEUT PAS créer des éléments, pour cela il faudra passer par un script et c'est un tout autre dossier.
+
+Une expression est un **fragment de code JavaScript** attaché à une **propriété animable** d'un calque (position, opacité, rotation…). À chaque frame, After Effects **évalue ce code** et utilise le résultat comme valeur de la propriété.
