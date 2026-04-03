@@ -32,7 +32,8 @@ jobs:
           numbered = []
           others = []
           for entry in entries:
-            if os.path.isdir(os.path.join(base, entry)):
+            EXCLUDE = ['images', 'assets', 'media']
+              if os.path.isdir(os.path.join(base, entry)) and entry not in EXCLUDE:
               if re.match(r'Module-\d+_', entry):
                 numbered.append(entry)
               else:
