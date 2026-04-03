@@ -1,0 +1,67 @@
+name: Generate Sidebar
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'FORMATIONAE-2026/**'
+
+jobs:
+  generate-sidebar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate _sidebar.md
+        run: |
+          python3 << 'EOF'
+          import os
+          import re
+
+          base = "FORMATIONAE-2026"
+          lines = ["- [Accueil](/)\n"]
+
+          entries = os.listdir(base)
+          
+          # Séparer modules numérotés et autres dossiers
+          numbered = []
+          others = []
+          for entry in entries:
+            if os.path.isdir(os.path.join(base, entry)):
+              if re.match(r'Module-\d+_', entry):
+                numbered.append(entry)
+              else:
+                others.append(entry)
+
+          # Trier les modules par numéro
+          numbered.sort(key=lambda x: int(re.search(r'Module-(\d+)_', x).group(1)))
+          others.sort()
+
+          for folder in numbered + others:
+            # Nom affiché : "Module-1_EXPRESSIONS" → "Module 1 — EXPRESSIONS"
+            label = re.sub(r'Module-(\d+)_(\S+)', r'Module \1 — \2', folder)
+            lines.append(f"\n- **{label}**\n")
+            folder_path = os.path.join(base, folder)
+            files = sorted([f for f in os.listdir(folder_path) if f.endswith('.md')])
+            for f in files:
+              name = f.replace('.md', '')
+              path = f"{base}/{folder}/{f.replace(' ', '%20')}"
+              lines.append(f"  - [{name}]({path})\n")
+
+          with open("_sidebar.md", "w", encoding="utf-8") as out:
+            out.writelines(lines)
+          print("_sidebar.md généré avec succès")
+          EOF
+
+      - name: Commit _sidebar.md
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add _sidebar.md
+          git diff --staged --quiet || git commit -m "Auto-generate _sidebar.md"
+          git push
