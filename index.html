@@ -69,26 +69,41 @@
 
 /* --- Blocs de code --- */
 code {
-  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
-  background-color: #1e1e2e;
-  color: #cdd6f4;
-  border-radius: 4px;
-  padding: 2px 6px;
-  font-size: 0.9em;
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace !important;
+  background-color: #1e1e2e !important;
+  color: #cdd6f4 !important;
+  border-radius: 4px !important;
+  padding: 2px 6px !important;
+  font-size: 0.9em !important;
 }
 pre {
   font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace !important;
   background-color: #1e1e2e !important;
-  border-left: 3px solid #6666CC;
-  border-radius: 4px;
+  border-left: 3px solid #6666CC !important;
+  border-radius: 4px !important;
   padding: 1em 1.2em !important;
 }
 pre code {
-  background-color: transparent;
-  color: #cdd6f4;
-  padding: 0;
-  font-size: 0.88em;
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace !important;
+  background-color: transparent !important;
+  color: #cdd6f4 !important;
+  padding: 0 !important;
+  font-size: 0.88em !important;
+  box-shadow: none !important;
 }
+.markdown-section pre {
+  background-color: #1e1e2e !important;
+}
+.markdown-section code {
+  background-color: #1e1e2e !important;
+  color: #cdd6f4 !important;
+}
+.markdown-section pre > code {
+  background-color: transparent !important;
+  color: #cdd6f4 !important;
+  box-shadow: none !important;
+}
+
 
     /* --- Barre de progression --- */
     #nprogress .bar {
