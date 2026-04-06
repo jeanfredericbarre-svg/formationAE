@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Flous et motion blur.md",
+                "file": "FORMATIONAE-2026/Module-7_PERFORMANCES/1. Optimiser ses expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Flous et motion blur"
+              "title": "1. Optimiser ses expressions"
             }
           }
         ],
@@ -214,11 +214,10 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
-    "FORMATIONAE-2026/Module-6_WORFLOW/1. Expression Controllers.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Flous et motion blur.md",
+    "FORMATIONAE-2026/Module-6_WORFLOW/1. Expression Controllers.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flou encadré accéléré.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/3. Distorsion et déformation.md",
-    "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Flous et motion blur_OLD.md",
     "FORMATIONAE-2026/Module-7_PERFORMANCES/2. Proxies et footage management.md",
     "FORMATIONAE-2026/Module-7_PERFORMANCES/1. Optimiser ses expressions.md",
