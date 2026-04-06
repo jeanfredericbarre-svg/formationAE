@@ -11,7 +11,7 @@
 
 # Carte rapide des flous
 
-L'apprenant qui connaît déjà Gaussian Blur se heurte rapidement à un problème : il est lent sur de grands rayons, et il ne fait qu'un seul type de flou. AE propose une palette d'effets de flou très différents dans leur usage.
+L'utilisateur qui connaît déjà Gaussian Blur se heurte rapidement à un problème : il est lent sur de grands rayons, et il ne fait qu'un seul type de flou. AE propose une palette d'effets de flou très différents dans leur usage.
 
 | Effet | GPU | Usage principal |
 |---|---|---|
