@@ -14,3 +14,29 @@
   - [Null comme contrôleur](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1.%20Null%20comme%20contrôleur.md)
   - [Local space vs World space](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2.%20Local%20space%20vs%20World%20space.md)
   - [Conversions d'espace — toWorld et fromWorld](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3.%20Conversions%20d'espace%20—%20toWorld%20et%20fromWorld.md)
+
+- **Module 4 — SHAPES-ET-MASQUES**
+  - [Avantages](FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/1.%20Avantages.md)
+  - [Trim Paths](FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2.%20Trim%20Paths.md)
+  - [Repeater et contrôle procédural](FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/3.%20Repeater%20et%20contrôle%20procédural.md)
+
+- **Module 5 — PRECOMPOSITIONS**
+  - [Leave vs Move attributes](FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/1.%20Leave%20vs%20Move%20attributes.md)
+  - [Collapse Transformations](FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/2.%20Collapse%20Transformations.md)
+  - [Précomps réutilisables et comp()](FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/3.%20Précomps%20réutilisables%20et%20comp().md)
+
+- **Module 6 — WORFLOW**
+  - [Expression Controllers](FORMATIONAE-2026/Module-6_WORFLOW/1.%20Expression%20Controllers.md)
+  - [Master Properties et Essential Graphics](FORMATIONAE-2026/Module-6_WORFLOW/2.%20Master%20Properties%20et%20Essential%20Graphics.md)
+  - [Output Module et export](FORMATIONAE-2026/Module-6_WORFLOW/3.%20Output%20Module%20et%20export.md)
+
+- **Module 7 — PERFORMANCES**
+  - [Optimiser ses expressions](FORMATIONAE-2026/Module-7_PERFORMANCES/1.%20Optimiser%20ses%20expressions.md)
+  - [Proxies et footage management](FORMATIONAE-2026/Module-7_PERFORMANCES/2.%20Proxies%20et%20footage%20management.md)
+
+- **Module 8 — DES-EFFETS**
+  - [Effets — flou encadré accéléré](FORMATIONAE-2026/Module-8_DES-EFFETS/1.%20Effets%20—%20flou%20encadré%20accéléré.md)
+
+- **Module 9 — ASTUCES-RACCOURCIS**
+  - [Astuces diverses](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1.%20Astuces%20diverses.md)
+  - [Raccourcis essentiels](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/2.%20Raccourcis%20essentiels.md)
