@@ -9,3 +9,8 @@
   - [Text Animators et Range Selector](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1.%20Text%20Animators%20et%20Range%20Selector.md)
   - [Expression Selectors — textIndex et textTotal](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2.%20Expression%20Selectors%20—%20textIndex%20et%20textTotal.md)
   - [sourceText et contenu dynamique](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3.%20sourceText%20et%20contenu%20dynamique.md)
+
+- **Module 3 — NULL-ET-PARENTING**
+  - [Null comme contrôleur](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1.%20Null%20comme%20contrôleur.md)
+  - [Local space vs World space](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2.%20Local%20space%20vs%20World%20space.md)
+  - [Conversions d'espace — toWorld et fromWorld](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3.%20Conversions%20d'espace%20—%20toWorld%20et%20fromWorld.md)
