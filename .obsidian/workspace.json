@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-2_SHAPE-LAYERS/1. Avantages.md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Avantages"
+              "title": "1. Les bases et la syntaxe"
             }
           }
         ],
@@ -203,7 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:Créer une nouvelle base": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -212,10 +212,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "48813cb9114a6ba8",
+  "active": "75014594eda369af",
   "lastOpenFiles": [
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
     "FORMATIONAE-2026/Module-2_SHAPE-LAYERS/1. Avantages.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
     "FORMATIONAE-2026/Module-2_SHAPE-LAYERS",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
     "FORMATIONAE-2026/Formation After Effects brouillon.md",
