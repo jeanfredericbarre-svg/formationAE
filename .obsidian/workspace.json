@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-6_WORFLOW/2. Master Properties et Essential Graphics.md",
+                "file": "FORMATIONAE-2026/Module-8_DES-EFFETS/2_Flous_et_motion_blur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Master Properties et Essential Graphics"
+              "title": "2_Flous_et_motion_blur"
             }
           }
         ],
@@ -214,11 +214,14 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
-    "FORMATIONAE-2026/Module-6_WORFLOW/3. Output Module et export.md",
-    "FORMATIONAE-2026/Module-7_PERFORMANCES/1. Optimiser ses expressions.md",
-    "FORMATIONAE-2026/Module-7_PERFORMANCES/2. Proxies et footage management.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flou encadré accéléré.md",
+    "FORMATIONAE-2026/Module-8_DES-EFFETS/2_Flous_et_motion_blur.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Flous et motion blur.md",
+    "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Flous et motion blur_OLD.md",
+    "FORMATIONAE-2026/Module-7_PERFORMANCES/2. Proxies et footage management.md",
+    "FORMATIONAE-2026/Module-7_PERFORMANCES/1. Optimiser ses expressions.md",
+    "FORMATIONAE-2026/Module-6_WORFLOW/2. Master Properties et Essential Graphics.md",
+    "FORMATIONAE-2026/Module-6_WORFLOW/3. Output Module et export.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/3. Distorsion et déformation.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/4. Color grading et correction colorimétrique.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/5. Modes de fusion et Track Matte.md",
@@ -238,15 +241,12 @@
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS",
     "FORMATIONAE-2026/Module-7_PERFORMANCES/1. Astuces diverses.md",
     "FORMATIONAE-2026/Module-7_PERFORMANCES",
-    "FORMATIONAE-2026/Module-6_WORFLOW/2. Master Properties et Essential Graphics.md",
     "FORMATIONAE-2026/Module-6_WORFLOW/1. Expression Controllers.md",
     "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/3. Précomps réutilisables et comp().md",
     "FORMATIONAE-2026/Module-6_WORFLOW",
     "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/2. Collapse Transformations.md",
     "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/1. Leave vs Move attributes.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/3. Repeater et contrôle procédural.md",
     "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2. Trim Paths.md",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE",

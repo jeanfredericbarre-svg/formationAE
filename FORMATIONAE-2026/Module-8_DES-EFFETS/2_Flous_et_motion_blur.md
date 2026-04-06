@@ -1,15 +1,15 @@
 ## Sommaire
-- [Choisir son flou — la carte rapide](#choisir-son-flou--la-carte-rapide)
-- [Fast Box Blur — le flou de production](#fast-box-blur--le-flou-de-production)
-- [Directional Blur — le flou cinétique](#directional-blur--le-flou-cinétique)
-- [Lens Blur — le bokeh réaliste](#lens-blur--le-bokeh-réaliste)
-- [Motion Blur natif d'AE](#motion-blur-natif-dae)
-- [CC Force Motion Blur — le motion blur post-render](#cc-force-motion-blur--le-motion-blur-post-render)
-- [Flou en précomp — la technique de performance](#flou-en-précomp--la-technique-de-performance)
+- [Carte rapide des flous](#carte-rapide-des-flous)
+- [Fast Box Blur](#fast-box-blur)
+- [Directional Blur](#directional-blur)
+- [Lens Blur](#lens-blur)
+- [Motion Blur natif](#motion-blur-natif)
+- [CC Force Motion Blur](#cc-force-motion-blur)
+- [Flou en précomp](#flou-en-precomp)
 
 ---
 
-# Choisir son flou — la carte rapide
+# Carte rapide des flous
 
 L'apprenant qui connaît déjà Gaussian Blur se heurte rapidement à un problème : il est lent sur de grands rayons, et il ne fait qu'un seul type de flou. AE propose une palette d'effets de flou très différents dans leur usage.
 
@@ -26,7 +26,7 @@ L'apprenant qui connaît déjà Gaussian Blur se heurte rapidement à un problè
 
 ---
 
-# Fast Box Blur — le flou de production
+# Fast Box Blur
 
 **Effect → Blur & Sharpen → Fast Box Blur**
 
@@ -58,7 +58,7 @@ linear(vitesse, 0, 500, 0, 40)
 
 ---
 
-# Directional Blur — le flou cinétique
+# Directional Blur
 
 **Effect → Blur & Sharpen → Directional Blur**
 
@@ -88,7 +88,7 @@ Frame 10  : Blur Length = 0,  Opacity = 100
 
 ---
 
-# Lens Blur — le bokeh réaliste
+# Lens Blur
 
 **Effect → Blur & Sharpen → Camera Lens Blur**
 
@@ -126,7 +126,7 @@ Le résultat simule une profondeur de champ avec une netteté progressive — sa
 
 ---
 
-# Motion Blur natif d'AE
+# Motion Blur natif
 
 Le motion blur natif n'est pas un effet — c'est une option de rendu intégrée à AE. Il calcule le flou de mouvement réel des calques animés, en fonction de leur vitesse à chaque frame.
 
@@ -159,7 +159,7 @@ Samples per Frame → nombre de sous-frames calculées
 
 ---
 
-# CC Force Motion Blur — le motion blur post-render
+# CC Force Motion Blur
 
 **Effect → Time → CC Force Motion Blur**
 
@@ -176,7 +176,7 @@ Shutter Angle       → même logique que le motion blur natif
 
 ---
 
-# Flou en précomp — la technique de performance
+# Flou en précomp
 
 Quand un calque flou est statique ou en boucle, recalculer le flou à chaque frame est du gaspillage pur. La solution : **pre-render la précomp**.
 
