@@ -5,5 +5,7 @@
   - [Expressions fondamentales](FORMATIONAE-2026/Module-1_EXPRESSIONS/2.%20Expressions%20fondamentales.md)
   - [L'argument (t)](FORMATIONAE-2026/Module-1_EXPRESSIONS/3.%20L'argument%20(t).md)
 
-- **Module 2 — SHAPE-LAYERS**
-  - [Avantages](1.%20Avantages.md)
+- **Module 2 — ANIMATION-TEXTE**
+  - [Text Animators et Range Selector](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1.%20Text%20Animators%20et%20Range%20Selector.md)
+  - [Expression Selectors — textIndex et textTotal](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2.%20Expression%20Selectors%20—%20textIndex%20et%20textTotal.md)
+  - [sourceText et contenu dynamique](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3.%20sourceText%20et%20contenu%20dynamique.md)
