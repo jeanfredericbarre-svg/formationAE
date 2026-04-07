@@ -1,8 +1,6 @@
 # Formation After Effects
 
-> Apprends After Effects pas à pas — des expressions à l'optimisation de tes projets.
-
-Cette documentation est conçue pour progresser de manière structurée, du concept le plus fondamental jusqu'aux techniques avancées. Chaque leçon est autonome, mais l'ordre proposé a été pensé pour construire ta compréhension sur des bases solides.
+Cette formation est conçue pour progresser de manière structurée, des concepts les plus fondamentaux aux techniques plus avancées. Chaque leçon est autonome, mais l'ordre proposé a été pensé pour construire une compréhension sur des bases solides.
 
 ---
 
@@ -25,15 +23,13 @@ Cette formation suppose que tu connais déjà :
 - La notion de keyframes et d'interpolation
 - L'utilisation basique des calques (solide, texte, null, forme)
 
-Si ces concepts te sont étrangers, commence par te former sur les bases d'After Effects avant de plonger ici.
-
 ---
 
 ## Comment utiliser cette documentation
 
 La **sidebar à gauche** liste toutes les leçons dans l'ordre recommandé. Tu peux aussi naviguer librement si tu cherches une technique précise.
 
-Chaque leçon contient des exemples de code prêts à copier-coller. Teste-les directement dans After Effects — la pratique est indispensable.
+Chaque leçon contient des exemples de code prêts à copier-coller et des projets AE spécifiques à chaque leçon sont disponibles pour tester et mettre en pratique ... c'est essentiel pour bien comprendre.
 
 ---
 
@@ -52,5 +48,3 @@ Chaque leçon contient des exemples de code prêts à copier-coller. Teste-les d
 |**Trucs & Astuces**|Conseils pratiques et techniques moins connues|
 
 ---
-
-[Commencer la formation →](https://claude.ai/chat/FORMATIONAE-2026/Module-1_EXPRESSIONS/1.%20Les%20bases%20et%20la%20syntaxe.md)

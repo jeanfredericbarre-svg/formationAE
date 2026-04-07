@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2. Expression Selectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2. Expression Selectors"
             }
           }
         ],
@@ -214,6 +214,7 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "README.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2. Expression Selectors.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1. Text Animators et Range Selector.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
@@ -242,7 +243,6 @@
     "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/2. Raccourcis essentiels.md",
     "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
     "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS",
-    "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/2. Raccourcis essentiels.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS",
     "FORMATIONAE-2026/Module-7_PERFORMANCES",
     "FORMATIONAE-2026/Module-6_WORFLOW",
