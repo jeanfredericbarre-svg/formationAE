@@ -45,3 +45,4 @@
 - **Module 9 — ASTUCES-RACCOURCIS**
   - [Astuces diverses](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1.%20Astuces%20diverses.md)
   - [Raccourcis essentiels](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/2.%20Raccourcis%20essentiels.md)
+  - [Ressources Internet](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/3.%20Ressources%20Internet.md)
