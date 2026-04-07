@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/3. Précomps réutilisables et comp().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "3. Précomps réutilisables et comp()"
             }
           }
         ],
@@ -214,6 +214,10 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/2. Collapse Transformations.md",
+    "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/1. Leave vs Move attributes.md",
+    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/1. Avantages.md",
+    "README.md",
     "NOTES-PROJET.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
     "_exemples-ae/Module-1_01-bases.aep",
@@ -223,14 +227,12 @@
     "index_old.html",
     "index copie.html",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2. Trim Paths.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/1. Avantages.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace — toWorld et fromWorld.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1. Text Animators et Range Selector.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2. Expression Selectors.md",
-    "README.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/3. L'argument (t).md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-7_PERFORMANCES/1. Optimiser ses expressions.md",
@@ -243,8 +245,6 @@
     "FORMATIONAE-2026/Module-6_WORFLOW/2. Master Properties et Essential Graphics.md",
     "FORMATIONAE-2026/Module-6_WORFLOW/3. Output Module et export.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/4. Color grading et correction colorimétrique.md",
-    "FORMATIONAE-2026/Module-8_DES-EFFETS/5. Modes de fusion et Track Matte.md",
-    "FORMATIONAE-2026/Module-8_DES-EFFETS/6. Particules et effets génératifs.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS",
     "FORMATIONAE-2026/Nouveau dossier",
     "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS",
