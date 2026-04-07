@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-8_DES-EFFETS/7. Effets méconnus — utilitaires et stylisation.md",
+                "file": "FORMATIONAE-2026/Module-8_DES-EFFETS/6. Effets méconnus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Effets méconnus — utilitaires et stylisation"
+              "title": "6. Effets méconnus"
             }
           },
           {
@@ -212,15 +212,16 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "75014594eda369af",
+  "active": "48813cb9114a6ba8",
   "lastOpenFiles": [
     "FORMATIONAE-2026/Module-8_DES-EFFETS/6. Effets méconnus.md",
-    "FORMATIONAE-2026/Module-8_DES-EFFETS/7. Effets méconnus — utilitaires et stylisation.md",
+    "FORMATIONAE-2026/Module-8_DES-EFFETS/6. Effets méconnus.md",
+    "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flous et motion blur.md",
+    "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/5. Particules et effets génératifs.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/4. Modes de fusion et Track Matte.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/3. Correction colorimétrique.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Distorsion et déformation.md",
-    "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-7_PERFORMANCES/2. Proxies et footage management.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flou encadré accéléré.md",
@@ -244,7 +245,6 @@
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2. Trim Paths.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace — toWorld et fromWorld.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
-    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS",
     "FORMATIONAE-2026/Nouveau dossier",
     "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS",
