@@ -35,14 +35,13 @@
   - [Proxies et footage management](FORMATIONAE-2026/Module-7_PERFORMANCES/2.%20Proxies%20et%20footage%20management.md)
 
 - **Module 8 — DES-EFFETS**
-  - [Flou encadré accéléré](FORMATIONAE-2026/Module-8_DES-EFFETS/1.%20Flou%20encadré%20accéléré.md)
-  - [Flous et motion blur](1.%20Flous%20et%20motion%20blur.md)
-  - [Distorsion et déformation](2.%20Distorsion%20et%20déformation.md)
-  - [Color grading et correction colorimétrique](3.%20Correction%20colorimétrique.md)
-  - [Modes de fusion et Track Matte](4.%20Modes%20de%20fusion%20et%20Track%20Matte.md)
-  - [Particules et effets génératifs](5.%20Particules%20et%20effets%20génératifs.md)
-  - [Effets méconnus — compositing et temps](6.%20Effets%20méconnus.md)
-  - [Effets méconnus — utilitaires et stylisation](6.%20Effets%20méconnus.md)
+  - [Flous et motion blur](FORMATIONAE-2026/Module-8_DES-EFFETS/1.%20Flous%20et%20motion%20blur.md)
+  - [Distorsion et déformation](FORMATIONAE-2026/Module-8_DES-EFFETS/2.%20Distorsion%20et%20déformation.md)
+  - [Correction colorimétrique](FORMATIONAE-2026/Module-8_DES-EFFETS/3.%20Correction%20colorimétrique.md)
+  - [Modes de fusion et Track Matte](FORMATIONAE-2026/Module-8_DES-EFFETS/4.%20Modes%20de%20fusion%20et%20Track%20Matte.md)
+  - [Particules et effets génératifs](FORMATIONAE-2026/Module-8_DES-EFFETS/5.%20Particules%20et%20effets%20génératifs.md)
+  - [Effets méconnus](FORMATIONAE-2026/Module-8_DES-EFFETS/6.%20Effets%20méconnus.md)
+  - [Effets méconnus — utilitaires et stylisation](FORMATIONAE-2026/Module-8_DES-EFFETS/7.%20Effets%20méconnus%20—%20utilitaires%20et%20stylisation.md)
 
 - **Module 9 — ASTUCES-RACCOURCIS**
   - [Astuces diverses](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1.%20Astuces%20diverses.md)
