@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "ff5389d4073923b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/3. Ressources Internet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Ressources Internet"
+            }
+          },
+          {
             "id": "126abfcb1ff9e023",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,13 +226,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "75014594eda369af",
+  "active": "ff5389d4073923b4",
   "lastOpenFiles": [
     "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
+    "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/3. Ressources Internet.md",
+    "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/3. Correction colorimétrique.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/6. Effets méconnus.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/6. Effets méconnus.md",
-    "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/5. Particules et effets génératifs.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/4. Modes de fusion et Track Matte.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Distorsion et déformation.md",
@@ -244,7 +259,6 @@
     "index copie.html",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2. Trim Paths.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace — toWorld et fromWorld.md",
-    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS",
     "FORMATIONAE-2026/Nouveau dossier",
     "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS",
