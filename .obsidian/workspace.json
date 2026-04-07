@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace — toWorld et fromWorld.md",
+                "file": "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/3. Repeater et contrôle procédural.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Conversions d'espace — toWorld et fromWorld"
+              "title": "3. Repeater et contrôle procédural"
             }
           }
         ],
@@ -214,6 +214,9 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2. Trim Paths.md",
+    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/1. Avantages.md",
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace — toWorld et fromWorld.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1. Text Animators et Range Selector.md",
@@ -237,9 +240,6 @@
     "FORMATIONAE-2026/Module-8_DES-EFFETS/6. Particules et effets génératifs.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/7. Effets méconnus — compositing et temps.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/8. Effets méconnus — utilitaires et stylisation.md",
-    "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Effets — flou encadré accéléré.md",
-    "FORMATIONAE-2026/Formation After Effects brouillon.md",
-    "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Effets — flou encadré accéléré.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS",
     "FORMATIONAE-2026/Nouveau dossier",
     "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS",
