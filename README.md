@@ -48,3 +48,9 @@ Chaque leçon contient des exemples de code prêts à copier-coller et des proje
 |**Trucs & Astuces**|Conseils pratiques et techniques moins connues|
 
 ---
+---
+
+## À propos de ce projet
+
+Ce site est généré avec [Docsify](https://docsify.js.org/) et hébergé sur GitHub Pages.
+Pour les conventions de nommage, la structure des fichiers et les notes de travail : [Notes du projet](NOTES-PROJET.md)
