@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/3. Ressources Internet.md",
+                "file": "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flous et motion blur.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "3. Ressources Internet"
+              "title": "1. Flous et motion blur"
             }
           },
           {
@@ -228,8 +228,8 @@
   },
   "active": "ff5389d4073923b4",
   "lastOpenFiles": [
-    "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
     "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/3. Ressources Internet.md",
+    "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/3. Correction colorimétrique.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/6. Effets méconnus.md",
