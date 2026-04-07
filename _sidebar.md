@@ -41,7 +41,6 @@
   - [Modes de fusion et Track Matte](FORMATIONAE-2026/Module-8_DES-EFFETS/4.%20Modes%20de%20fusion%20et%20Track%20Matte.md)
   - [Particules et effets génératifs](FORMATIONAE-2026/Module-8_DES-EFFETS/5.%20Particules%20et%20effets%20génératifs.md)
   - [Effets méconnus](FORMATIONAE-2026/Module-8_DES-EFFETS/6.%20Effets%20méconnus.md)
-  - [Effets méconnus — utilitaires et stylisation](FORMATIONAE-2026/Module-8_DES-EFFETS/7.%20Effets%20méconnus%20—%20utilitaires%20et%20stylisation.md)
 
 - **Module 9 — ASTUCES-RACCOURCIS**
   - [Astuces diverses](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1.%20Astuces%20diverses.md)
