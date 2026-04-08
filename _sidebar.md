@@ -5,6 +5,7 @@
   - [Expressions fondamentales](FORMATIONAE-2026/Module-1_EXPRESSIONS/2.%20Expressions%20fondamentales.md)
   - [L'argument (t)](FORMATIONAE-2026/Module-1_EXPRESSIONS/3.%20L'argument%20(t).md)
   - [Les tableaux ARRAYS](FORMATIONAE-2026/Module-1_EXPRESSIONS/4.%20Les%20tableaux%20ARRAYS.md)
+  - [thisComp, thisLayer, thisProperty](FORMATIONAE-2026/Module-1_EXPRESSIONS/5.%20thisComp,%20thisLayer,%20thisProperty.md)
 
 - **Module 2 — ANIMATION-TEXTE**
   - [Text Animators et Range Selector](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1.%20Text%20Animators%20et%20Range%20Selector.md)
