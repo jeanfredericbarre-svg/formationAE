@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1. Text Animators et Range Selector.md",
+                "file": "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/1. Avantages.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Text Animators et Range Selector"
+              "title": "1. Avantages"
             }
           }
         ],
@@ -229,15 +229,20 @@
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/4. Chaînes de parenté complexes.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Les fonctions mathématiques utiles.md",
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace — toWorld et fromWorld.md",
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2. Expression Selectors.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1. Text Animators et Range Selector.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Les fonctions mathématiques utiles.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/6. Conditions et logique.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/4. Les tableaux ARRAYS.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/3. L'argument (t).md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/4. Les tableaux ARRAY.md",
     "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/1. Leave vs Move attributes.md",
@@ -249,11 +254,6 @@
     "FORMATIONAE-2026/Module-8_DES-EFFETS/5. Particules et effets génératifs.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/4. Modes de fusion et Track Matte.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/2. Distorsion et déformation.md",
-    "FORMATIONAE-2026/Module-7_PERFORMANCES/2. Proxies et footage management.md",
-    "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flou encadré accéléré.md",
-    "FORMATIONAE-2026/Module-7_PERFORMANCES/1. Optimiser ses expressions.md",
-    "FORMATIONAE-2026/Module-6_WORFLOW/3. Output Module et export.md",
-    "FORMATIONAE-2026/Module-6_WORFLOW/1. Expression Controllers.md",
     "_exemples-ae/Module-1_01-bases.aep",
     "_exemples-ae",
     "dossier sans titre",
