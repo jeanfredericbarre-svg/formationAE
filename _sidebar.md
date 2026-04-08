@@ -30,29 +30,24 @@
   - [Masques de découpe et Track Matte avec shapes](FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/4.%20Masques%20de%20découpe%20et%20Track%20Matte%20avec%20shapes.md)
   - [Modificateurs de forme et Merge Paths](FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/5.%20Modificateurs%20de%20forme%20et%20Merge%20Paths.md)
 
-- **Module 5 — PRECOMPOSITIONS**
-  - [Leave vs Move attributes](FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/1.%20Leave%20vs%20Move%20attributes.md)
-  - [Collapse Transformations](FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/2.%20Collapse%20Transformations.md)
-  - [Précomps réutilisables et comp()](FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/3.%20Précomps%20réutilisables%20et%20comp().md)
+- **Module 5 — WORFLOW**
+  - [Expression Controllers](FORMATIONAE-2026/Module-5_WORFLOW/1.%20Expression%20Controllers.md)
+  - [Master Properties et Essential Graphics](FORMATIONAE-2026/Module-5_WORFLOW/2.%20Master%20Properties%20et%20Essential%20Graphics.md)
+  - [Output Module et export](FORMATIONAE-2026/Module-5_WORFLOW/3.%20Output%20Module%20et%20export.md)
 
-- **Module 6 — WORFLOW**
-  - [Expression Controllers](FORMATIONAE-2026/Module-6_WORFLOW/1.%20Expression%20Controllers.md)
-  - [Master Properties et Essential Graphics](FORMATIONAE-2026/Module-6_WORFLOW/2.%20Master%20Properties%20et%20Essential%20Graphics.md)
-  - [Output Module et export](FORMATIONAE-2026/Module-6_WORFLOW/3.%20Output%20Module%20et%20export.md)
+- **Module 6 — PERFORMANCES**
+  - [Optimiser ses expressions](FORMATIONAE-2026/Module-6_PERFORMANCES/1.%20Optimiser%20ses%20expressions.md)
+  - [Proxies et footage management](FORMATIONAE-2026/Module-6_PERFORMANCES/2.%20Proxies%20et%20footage%20management.md)
 
-- **Module 7 — PERFORMANCES**
-  - [Optimiser ses expressions](FORMATIONAE-2026/Module-7_PERFORMANCES/1.%20Optimiser%20ses%20expressions.md)
-  - [Proxies et footage management](FORMATIONAE-2026/Module-7_PERFORMANCES/2.%20Proxies%20et%20footage%20management.md)
+- **Module 7 — DES-EFFETS**
+  - [Flous et motion blur](FORMATIONAE-2026/Module-7_DES-EFFETS/1.%20Flous%20et%20motion%20blur.md)
+  - [Distorsion et déformation](FORMATIONAE-2026/Module-7_DES-EFFETS/2.%20Distorsion%20et%20déformation.md)
+  - [Correction colorimétrique](FORMATIONAE-2026/Module-7_DES-EFFETS/3.%20Correction%20colorimétrique.md)
+  - [Modes de fusion et Track Matte](FORMATIONAE-2026/Module-7_DES-EFFETS/4.%20Modes%20de%20fusion%20et%20Track%20Matte.md)
+  - [Particules et effets génératifs](FORMATIONAE-2026/Module-7_DES-EFFETS/5.%20Particules%20et%20effets%20génératifs.md)
+  - [Effets méconnus](FORMATIONAE-2026/Module-7_DES-EFFETS/6.%20Effets%20méconnus.md)
 
-- **Module 8 — DES-EFFETS**
-  - [Flous et motion blur](FORMATIONAE-2026/Module-8_DES-EFFETS/1.%20Flous%20et%20motion%20blur.md)
-  - [Distorsion et déformation](FORMATIONAE-2026/Module-8_DES-EFFETS/2.%20Distorsion%20et%20déformation.md)
-  - [Correction colorimétrique](FORMATIONAE-2026/Module-8_DES-EFFETS/3.%20Correction%20colorimétrique.md)
-  - [Modes de fusion et Track Matte](FORMATIONAE-2026/Module-8_DES-EFFETS/4.%20Modes%20de%20fusion%20et%20Track%20Matte.md)
-  - [Particules et effets génératifs](FORMATIONAE-2026/Module-8_DES-EFFETS/5.%20Particules%20et%20effets%20génératifs.md)
-  - [Effets méconnus](FORMATIONAE-2026/Module-8_DES-EFFETS/6.%20Effets%20méconnus.md)
-
-- **Module 9 — ASTUCES-RACCOURCIS**
-  - [Astuces diverses](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1.%20Astuces%20diverses.md)
-  - [Raccourcis essentiels](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/2.%20Raccourcis%20essentiels.md)
-  - [Ressources Internet](FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/3.%20Ressources%20Internet.md)
+- **Module 8 — ASTUCES-RACCOURCIS**
+  - [Astuces diverses](FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/1.%20Astuces%20diverses.md)
+  - [Raccourcis essentiels](FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/2.%20Raccourcis%20essentiels.md)
+  - [Ressources Internet](FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/3.%20Ressources%20Internet.md)
