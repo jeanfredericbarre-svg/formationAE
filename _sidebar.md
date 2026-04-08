@@ -25,6 +25,7 @@
   - [Avantages](FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/1.%20Avantages.md)
   - [Trim Paths](FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2.%20Trim%20Paths.md)
   - [Repeater et contrôle procédural](FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/3.%20Repeater%20et%20contrôle%20procédural.md)
+  - [Masques de découpe et Track Matte avec shapes](FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/4.%20Masques%20de%20découpe%20et%20Track%20Matte%20avec%20shapes.md)
 
 - **Module 5 — PRECOMPOSITIONS**
   - [Leave vs Move attributes](FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/1.%20Leave%20vs%20Move%20attributes.md)
