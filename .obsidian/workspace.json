@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Les bases et la syntaxe"
+              "title": "2. Expressions fondamentales"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/4. Masques de découpe et Track Matte avec shapes.md",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/5. Modificateurs de forme et Merge Paths.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
