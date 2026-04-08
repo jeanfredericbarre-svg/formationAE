@@ -7,6 +7,7 @@
   - [Les tableaux ARRAYS](FORMATIONAE-2026/Module-1_EXPRESSIONS/4.%20Les%20tableaux%20ARRAYS.md)
   - [thisComp, thisLayer, thisProperty](FORMATIONAE-2026/Module-1_EXPRESSIONS/5.%20thisComp,%20thisLayer,%20thisProperty.md)
   - [Conditions et logique](FORMATIONAE-2026/Module-1_EXPRESSIONS/6.%20Conditions%20et%20logique.md)
+  - [Les fonctions mathématiques utiles](FORMATIONAE-2026/Module-1_EXPRESSIONS/7.%20Les%20fonctions%20mathématiques%20utiles.md)
 
 - **Module 2 — ANIMATION-TEXTE**
   - [Text Animators et Range Selector](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1.%20Text%20Animators%20et%20Range%20Selector.md)
