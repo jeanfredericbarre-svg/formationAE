@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Les fonctions mathématiques utiles.md",
+                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1. Text Animators et Range Selector.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7. Les fonctions mathématiques utiles"
+              "title": "1. Text Animators et Range Selector"
             }
           }
         ],
@@ -228,6 +228,9 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/4. Chaînes de parenté complexes.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Les fonctions mathématiques utiles.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1. Text Animators et Range Selector.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/6. Conditions et logique.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/4. Les tableaux ARRAYS.md",
@@ -235,7 +238,6 @@
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Les fonctions mathématiques utiles.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/4. Les tableaux ARRAY.md",
     "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/1. Leave vs Move attributes.md",
@@ -252,8 +254,6 @@
     "FORMATIONAE-2026/Module-7_PERFORMANCES/1. Optimiser ses expressions.md",
     "FORMATIONAE-2026/Module-6_WORFLOW/3. Output Module et export.md",
     "FORMATIONAE-2026/Module-6_WORFLOW/1. Expression Controllers.md",
-    "FORMATIONAE-2026/Module-6_WORFLOW/2. Master Properties et Essential Graphics.md",
-    "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/2. Collapse Transformations.md",
     "_exemples-ae/Module-1_01-bases.aep",
     "_exemples-ae",
     "dossier sans titre",
