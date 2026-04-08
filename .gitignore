@@ -1,2 +1,7 @@
 # Projets After Effects (fichiers binaires lourds)
 _exemples-ae/
+
+# Obsidian — fichiers d'interface et de cache (propres à chaque machine)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
