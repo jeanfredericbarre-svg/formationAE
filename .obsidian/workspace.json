@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/6. Conditions et logique.md",
+                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "6. Conditions et logique"
+              "title": "4. Animations de caractères"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5
+    "width": 407.5
   },
   "right": {
     "id": "bbdc42d571fd0f0b",
@@ -228,12 +228,13 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/6. Conditions et logique.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Les fonctions mathématiques utiles.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/4. Les tableaux ARRAYS.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/6. Conditions et logique.md",
     "FORMATIONAE-2026/Module-8_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/4. Les tableaux ARRAY.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/3. L'argument (t).md",
@@ -253,7 +254,6 @@
     "FORMATIONAE-2026/Module-6_WORFLOW/1. Expression Controllers.md",
     "FORMATIONAE-2026/Module-6_WORFLOW/2. Master Properties et Essential Graphics.md",
     "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/2. Collapse Transformations.md",
-    "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/3. Précomps réutilisables et comp().md",
     "_exemples-ae/Module-1_01-bases.aep",
     "_exemples-ae",
     "dossier sans titre",
