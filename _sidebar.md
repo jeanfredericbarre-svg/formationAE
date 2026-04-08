@@ -14,6 +14,7 @@
   - [Expression Selectors](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2.%20Expression%20Selectors.md)
   - [sourceText et contenu dynamique](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3.%20sourceText%20et%20contenu%20dynamique.md)
   - [Animations de caractères](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4.%20Animations%20de%20caractères.md)
+  - [Animation sur chemin et animations de paragraphe](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5.%20Animation%20sur%20chemin%20et%20animations%20de%20paragraphe.md)
 
 - **Module 3 — NULL-ET-PARENTING**
   - [Null comme contrôleur général](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1.%20Null%20comme%20contrôleur%20général.md)
