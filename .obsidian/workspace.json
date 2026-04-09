@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5. thisComp, thisLayer, thisProperty"
+              "title": "1. Les bases et la syntaxe"
             }
           }
         ],
@@ -228,12 +228,15 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/4. Les tableaux ARRAYS.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/3. L'argument (t).md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/3. L'argument (t).md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/4. Les tableaux ARRAYS.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/6. Des effets spécialement pour les Expressions.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Conditions et logique.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/8. Les fonctions mathématiques utiles.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
     "FORMATIONAE-2026/Module-6_PERFORMANCES/2. Proxies et footage management.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/6. Des effets spécialement pour les Expressions.md",
     "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/2. Collapse Transformations.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/3. Ressources Internet.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/2. Raccourcis essentiels.md",
@@ -252,13 +255,10 @@
     "FORMATIONAE-2026/Module-5_WORFLOW/2. Master Properties et Essential Graphics.md",
     "FORMATIONAE-2026/Module-5_WORFLOW/1. Expression Controllers.md",
     "FORMATIONAE-2026/Module-5_WORFLOW",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Conditions et logique.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
     "gitignore",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/4. Masques de découpe et Track Matte avec shapes.md",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/5. Modificateurs de forme et Merge Paths.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
-    "FORMATIONAE-2026/Module-9_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
     "_exemples-ae/Module-1_01-bases.aep",
     "_exemples-ae",
     "dossier sans titre",
