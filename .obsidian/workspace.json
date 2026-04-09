@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
+                "file": "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/4. Chaînes de parenté complexes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5. Animation sur chemin et animations de paragraphe"
+              "title": "4. Chaînes de parenté complexes"
             }
           }
         ],
@@ -228,6 +228,9 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace — toWorld et fromWorld.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2. Expression Selectors.md",
@@ -253,10 +256,7 @@
     "FORMATIONAE-2026/Module-7_DES-EFFETS/3. Correction colorimétrique.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS",
-    "FORMATIONAE-2026/Module-6_PERFORMANCES/1. Optimiser ses expressions.md",
     "FORMATIONAE-2026/Module-6_PERFORMANCES",
-    "FORMATIONAE-2026/Module-5_WORFLOW/3. Output Module et export.md",
-    "FORMATIONAE-2026/Module-5_WORFLOW/2. Master Properties et Essential Graphics.md",
     "FORMATIONAE-2026/Module-5_WORFLOW",
     "gitignore",
     "_exemples-ae/Module-1_01-bases.aep",
