@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-7_DES-EFFETS/3. Correction colorimétrique.md",
+                "file": "FORMATIONAE-2026/Module-7_DES-EFFETS/6. Effets méconnus.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3. Correction colorimétrique"
+              "title": "6. Effets méconnus"
             }
           }
         ],
@@ -228,6 +228,9 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-7_DES-EFFETS/5. Particules et effets génératifs.md",
+    "FORMATIONAE-2026/Module-7_DES-EFFETS/4. Modes de fusion et Track Matte.md",
+    "FORMATIONAE-2026/Module-7_DES-EFFETS/3. Correction colorimétrique.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS/2. Distorsion et déformation.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-6_PERFORMANCES/2. Proxies et footage management.md",
@@ -249,9 +252,6 @@
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/2. Raccourcis essentiels.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS/6. Effets méconnus.md",
-    "FORMATIONAE-2026/Module-7_DES-EFFETS/5. Particules et effets génératifs.md",
-    "FORMATIONAE-2026/Module-7_DES-EFFETS/4. Modes de fusion et Track Matte.md",
-    "FORMATIONAE-2026/Module-7_DES-EFFETS/3. Correction colorimétrique.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS",
