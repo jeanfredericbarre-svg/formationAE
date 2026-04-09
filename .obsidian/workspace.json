@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-6_PERFORMANCES/2. Proxies et footage management.md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2. Proxies et footage management"
+              "title": "2. Expressions fondamentales"
             }
           }
         ],
@@ -228,6 +228,8 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
+    "FORMATIONAE-2026/Module-6_PERFORMANCES/2. Proxies et footage management.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/6. Des effets spécialement pour les Expressions.md",
     "FORMATIONAE-2026/Module-5_PRECOMPOSITIONS/2. Collapse Transformations.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/3. Ressources Internet.md",
@@ -241,7 +243,6 @@
     "FORMATIONAE-2026/Module-7_DES-EFFETS/3. Correction colorimétrique.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS",
-    "FORMATIONAE-2026/Module-6_PERFORMANCES/2. Proxies et footage management.md",
     "FORMATIONAE-2026/Module-6_PERFORMANCES/1. Optimiser ses expressions.md",
     "FORMATIONAE-2026/Module-6_PERFORMANCES",
     "FORMATIONAE-2026/Module-5_WORFLOW/3. Output Module et export.md",
@@ -249,7 +250,6 @@
     "FORMATIONAE-2026/Module-5_WORFLOW/1. Expression Controllers.md",
     "FORMATIONAE-2026/Module-5_WORFLOW",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Conditions et logique.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
     "gitignore",
