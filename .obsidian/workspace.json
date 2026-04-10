@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
-                "mode": "preview",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Expressions fondamentales"
+              "title": "5. thisComp, thisLayer, thisProperty"
             }
           }
         ],
