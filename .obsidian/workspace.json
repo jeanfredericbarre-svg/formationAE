@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-5_WORFLOW/2. Master Properties et Essential Graphics.md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2. Master Properties et Essential Graphics"
+              "title": "1. Les bases et la syntaxe"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 286.5
   },
   "right": {
     "id": "bbdc42d571fd0f0b",
@@ -228,6 +228,12 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales_NEW.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales_OLD.md",
+    "NOTES-PROJET.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
+    "FORMATIONAE-2026/Module-5_WORFLOW/2. Master Properties et Essential Graphics.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS/6. Effets méconnus.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS/5. Particules et effets génératifs.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS/4. Modes de fusion et Track Matte.md",
@@ -237,7 +243,6 @@
     "FORMATIONAE-2026/Module-6_PERFORMANCES/2. Proxies et footage management.md",
     "FORMATIONAE-2026/Module-6_PERFORMANCES/1. Optimiser ses expressions.md",
     "FORMATIONAE-2026/Module-5_WORFLOW/3. Output Module et export.md",
-    "FORMATIONAE-2026/Module-5_WORFLOW/2. Master Properties et Essential Graphics.md",
     "FORMATIONAE-2026/Module-5_WORFLOW/1. Expression Controllers.md",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/5. Modificateurs de forme et Merge Paths.md",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/4. Masques de découpe et Track Matte avec shapes.md",
@@ -249,11 +254,6 @@
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1. Text Animators et Range Selector.md",
-    "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/3. Ressources Internet.md",
-    "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/2. Raccourcis essentiels.md",
-    "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS",
     "FORMATIONAE-2026/Module-7_DES-EFFETS",
     "FORMATIONAE-2026/Module-6_PERFORMANCES",
