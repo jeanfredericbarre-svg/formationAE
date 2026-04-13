@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5. thisComp, thisLayer, thisProperty"
+              "title": "1. Les bases et la syntaxe"
             }
           }
         ],
@@ -228,10 +228,11 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/images/proprietes.png",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
     "FORMATIONAE-2026/images/pickwhip.png",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/3. L'argument (t).md",
     "_sidebar.md",
     "FORMATIONAE-2026/images/PushTheTempo.gif",
@@ -264,7 +265,6 @@
     "_exemples-ae",
     "dossier sans titre",
     "index_old.html",
-    "index copie.html",
-    "FORMATIONAE-2026/images/proprietes.png"
+    "index copie.html"
   ]
 }
