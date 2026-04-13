@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "bbdc42d571fd0f0b",
@@ -229,8 +230,8 @@
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
-    "_sidebar.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
+    "_sidebar.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
     "FORMATIONAE-2026/images/PushTheTempo.gif",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales_NEW.md",
