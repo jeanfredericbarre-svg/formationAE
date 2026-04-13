@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/3. L'argument (t).md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3. L'argument (t)"
+              "title": "5. thisComp, thisLayer, thisProperty"
             }
           }
         ],
@@ -229,10 +229,10 @@
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/3. L'argument (t).md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
-    "_sidebar.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/3. L'argument (t).md",
+    "_sidebar.md",
     "FORMATIONAE-2026/images/PushTheTempo.gif",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales_NEW.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales_OLD.md",
