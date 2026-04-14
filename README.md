@@ -1,6 +1,6 @@
 # Formation After Effects 2026
 
-Cette formation couvre les techniques avancées d'After Effects : expressions JavaScript, animation de texte, rigging, shapes et effets. Elle s'adresse à des utilisateurs qui maîtrisent déjà les bases du logiciel et souhaitent approfondir leurs pratiques.
+Cette formation couvre les techniques avancées d'After Effects : expressions JavaScript, animation de texte, rigging, shapes et effets. Elle s'adresse à des utilisateurs qui maîtrisent déjà les bases du logiciel et souhaitent approfondir leurs connaissances.
 
 ---
 
@@ -29,4 +29,4 @@ Cette formation suppose que tu connais déjà :
 
 ## Comment utiliser cette documentation
 
-La sidebar à gauche liste toutes les leçons dans l'ordre recommandé. Chaque leçon contient des exemples de code prêts à copier-coller ainsi qu'un projet After Effects téléchargeable pour mettre en pratique les concepts abordés.
+La sidebar à gauche liste toutes les leçons dans l'ordre recommandé. Chaque leçon contient des exemples de code prêts à copier-coller ainsi qu'un projet After Effects téléchargeable pour mettre en pratique les concepts abordés. Pour la partie Expressions, la somme d'informations et termes à est assez importante. Il n'est pas question de tout retenir en une fois mais plutôt de comprendre le fonctionnement général et savoir que tel ou tel outil existe. Tu pourras ensuite revenir sur cette formation pour y piocher les éléments nécessaires.

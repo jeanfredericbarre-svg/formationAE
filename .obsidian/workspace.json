@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/9. Optimiser ses expressions.md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/10. Expressions AE et IA.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "9. Optimiser ses expressions"
+              "title": "10. Expressions AE et IA"
             }
           }
         ],
@@ -228,6 +228,9 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "README.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/10. Expressions AE et IA.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/9. Optimiser ses expressions.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/6. Expression Selector avancé.md",
     "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS/3. Ressources Internet.md",
     "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS/2. Raccourcis essentiels.md",
@@ -240,7 +243,6 @@
     "FORMATIONAE-2026/Module-5_DES-EFFETS/2. Distorsion et déformation.md",
     "FORMATIONAE-2026/Module-5_DES-EFFETS/1. Flous et motion blur.md",
     "FORMATIONAE-2026/Module-5_DES-EFFETS",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/9. Optimiser ses expressions.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Optimiser ses expressions.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/7. sourceText et données externes.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/9. Tracking et Leading par expression.md",
@@ -257,8 +259,6 @@
     "FORMATIONAE-2026/images/PushTheTempo.gif",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales_NEW.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales_OLD.md",
-    "NOTES-PROJET.md",
-    "FORMATIONAE-2026/Module-5_WORFLOW/2. Master Properties et Essential Graphics.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS",
     "FORMATIONAE-2026/Module-7_DES-EFFETS",
     "FORMATIONAE-2026/Module-6_PERFORMANCES",
