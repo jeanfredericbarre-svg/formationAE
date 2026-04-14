@@ -46,7 +46,7 @@ jobs:
             label = re.sub(r'Module-(\d+)_(\S+)', r'Module \1 — \2', folder)
             lines.append(f"\n- **{label}**\n")
             folder_path = os.path.join(base, folder)
-            files = sorted([f for f in os.listdir(folder_path) if f.endswith('.md')])
+            files = sorted([f for f in os.listdir(folder_path) if f.endswith('.md')], key=lambda x: int(m.group(1)) if (m := re.match(r'^(\d+)\.', x)) else 999)
             for f in files:
               name = re.sub(r'^\d+\.\s*', '', f.replace('.md', ''))
               path = f"{base}/{folder}/{f.replace(' ', '%20')}"
