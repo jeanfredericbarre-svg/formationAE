@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/7. sourceText et données externes.md",
+                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/6. Expression Selector avancé.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7. sourceText et données externes"
+              "title": "6. Expression Selector avancé"
             }
           }
         ],
@@ -228,6 +228,20 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS/3. Ressources Internet.md",
+    "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS/2. Raccourcis essentiels.md",
+    "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
+    "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS",
+    "FORMATIONAE-2026/Module-5_DES-EFFETS/6. Effets méconnus.md",
+    "FORMATIONAE-2026/Module-5_DES-EFFETS/5. Particules et effets génératifs.md",
+    "FORMATIONAE-2026/Module-5_DES-EFFETS/4. Modes de fusion et Track Matte.md",
+    "FORMATIONAE-2026/Module-5_DES-EFFETS/3. Correction colorimétrique.md",
+    "FORMATIONAE-2026/Module-5_DES-EFFETS/2. Distorsion et déformation.md",
+    "FORMATIONAE-2026/Module-5_DES-EFFETS/1. Flous et motion blur.md",
+    "FORMATIONAE-2026/Module-5_DES-EFFETS",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/9. Optimiser ses expressions.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Optimiser ses expressions.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/7. sourceText et données externes.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/9. Tracking et Leading par expression.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Conditions et logique.md",
@@ -245,18 +259,6 @@
     "NOTES-PROJET.md",
     "FORMATIONAE-2026/Module-5_WORFLOW/2. Master Properties et Essential Graphics.md",
     "FORMATIONAE-2026/Module-7_DES-EFFETS/6. Effets méconnus.md",
-    "FORMATIONAE-2026/Module-7_DES-EFFETS/5. Particules et effets génératifs.md",
-    "FORMATIONAE-2026/Module-7_DES-EFFETS/4. Modes de fusion et Track Matte.md",
-    "FORMATIONAE-2026/Module-7_DES-EFFETS/3. Correction colorimétrique.md",
-    "FORMATIONAE-2026/Module-7_DES-EFFETS/2. Distorsion et déformation.md",
-    "FORMATIONAE-2026/Module-7_DES-EFFETS/1. Flous et motion blur.md",
-    "FORMATIONAE-2026/Module-6_PERFORMANCES/2. Proxies et footage management.md",
-    "FORMATIONAE-2026/Module-6_PERFORMANCES/1. Optimiser ses expressions.md",
-    "FORMATIONAE-2026/Module-5_WORFLOW/3. Output Module et export.md",
-    "FORMATIONAE-2026/Module-5_WORFLOW/1. Expression Controllers.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/5. Modificateurs de forme et Merge Paths.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/4. Masques de découpe et Track Matte avec shapes.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/3. Repeater et contrôle procédural.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS",
     "FORMATIONAE-2026/Module-7_DES-EFFETS",
     "FORMATIONAE-2026/Module-6_PERFORMANCES",
@@ -264,8 +266,6 @@
     "gitignore",
     "_exemples-ae/Module-1_01-bases.aep",
     "_exemples-ae",
-    "dossier sans titre",
-    "index_old.html",
-    "index copie.html"
+    "dossier sans titre"
   ]
 }
