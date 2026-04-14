@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
+                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/7. sourceText et données externes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Les bases et la syntaxe"
+              "title": "7. sourceText et données externes"
             }
           }
         ],
@@ -228,8 +228,12 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
-    "FORMATIONAE-2026/images/proprietes.png",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/9. Tracking et Leading par expression.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/7. Conditions et logique.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/6. Des effets spécialement pour les Expressions.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Les bases et la syntaxe.md",
+    "FORMATIONAE-2026/images/proprietes.png",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/5. thisComp, thisLayer, thisProperty.md",
     "FORMATIONAE-2026/images/pickwhip.png",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/2. Expressions fondamentales.md",
@@ -253,9 +257,6 @@
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/5. Modificateurs de forme et Merge Paths.md",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/4. Masques de découpe et Track Matte avec shapes.md",
     "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/3. Repeater et contrôle procédural.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2. Trim Paths.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/1. Avantages.md",
-    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/4. Chaînes de parenté complexes.md",
     "FORMATIONAE-2026/Module-8_ASTUCES-RACCOURCIS",
     "FORMATIONAE-2026/Module-7_DES-EFFETS",
     "FORMATIONAE-2026/Module-6_PERFORMANCES",
