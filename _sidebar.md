@@ -1,16 +1,16 @@
 - [Accueil](/)
 
 - **Module 1 — EXPRESSIONS**
-  - [Les bases et la syntaxe](FORMATIONAE-2026/Module-1_EXPRESSIONS/1.%20Les%20bases%20et%20la%20syntaxe.md)
+  - [Les bases et la syntaxe](FORMATIONAE-2026/Module-1_EXPRESSIONS/01.%20Les%20bases%20et%20la%20syntaxe.md)
+  - [Expressions fondamentales](FORMATIONAE-2026/Module-1_EXPRESSIONS/02.%20Expressions%20fondamentales.md)
+  - [L'argument (t)](FORMATIONAE-2026/Module-1_EXPRESSIONS/03.%20L'argument%20(t).md)
+  - [Les tableaux ARRAYS](FORMATIONAE-2026/Module-1_EXPRESSIONS/04.%20Les%20tableaux%20ARRAYS.md)
+  - [thisComp, thisLayer, thisProperty](FORMATIONAE-2026/Module-1_EXPRESSIONS/05.%20thisComp,%20thisLayer,%20thisProperty.md)
+  - [Des effets spécialement pour les Expressions](FORMATIONAE-2026/Module-1_EXPRESSIONS/06.%20Des%20effets%20spécialement%20pour%20les%20Expressions.md)
+  - [Conditions et logique](FORMATIONAE-2026/Module-1_EXPRESSIONS/07.%20Conditions%20et%20logique.md)
+  - [Les fonctions mathématiques utiles](FORMATIONAE-2026/Module-1_EXPRESSIONS/08.%20Les%20fonctions%20mathématiques%20utiles.md)
+  - [Optimiser ses expressions](FORMATIONAE-2026/Module-1_EXPRESSIONS/09.%20Optimiser%20ses%20expressions.md)
   - [Expressions AE et IA](FORMATIONAE-2026/Module-1_EXPRESSIONS/10.%20Expressions%20AE%20et%20IA.md)
-  - [Expressions fondamentales](FORMATIONAE-2026/Module-1_EXPRESSIONS/2.%20Expressions%20fondamentales.md)
-  - [L'argument (t)](FORMATIONAE-2026/Module-1_EXPRESSIONS/3.%20L'argument%20(t).md)
-  - [Les tableaux ARRAYS](FORMATIONAE-2026/Module-1_EXPRESSIONS/4.%20Les%20tableaux%20ARRAYS.md)
-  - [thisComp, thisLayer, thisProperty](FORMATIONAE-2026/Module-1_EXPRESSIONS/5.%20thisComp,%20thisLayer,%20thisProperty.md)
-  - [Des effets spécialement pour les Expressions](FORMATIONAE-2026/Module-1_EXPRESSIONS/6.%20Des%20effets%20spécialement%20pour%20les%20Expressions.md)
-  - [Conditions et logique](FORMATIONAE-2026/Module-1_EXPRESSIONS/7.%20Conditions%20et%20logique.md)
-  - [Les fonctions mathématiques utiles](FORMATIONAE-2026/Module-1_EXPRESSIONS/8.%20Les%20fonctions%20mathématiques%20utiles.md)
-  - [Optimiser ses expressions](FORMATIONAE-2026/Module-1_EXPRESSIONS/9.%20Optimiser%20ses%20expressions.md)
 
 - **Module 2 — ANIMATION-TEXTE**
   - [Text Animators et Range Selector](FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1.%20Text%20Animators%20et%20Range%20Selector.md)
