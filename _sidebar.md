@@ -2,6 +2,7 @@
 
 - **Module 1 — EXPRESSIONS**
   - [Les bases et la syntaxe](FORMATIONAE-2026/Module-1_EXPRESSIONS/1.%20Les%20bases%20et%20la%20syntaxe.md)
+  - [Expressions AE et IA](FORMATIONAE-2026/Module-1_EXPRESSIONS/10.%20Expressions%20AE%20et%20IA.md)
   - [Expressions fondamentales](FORMATIONAE-2026/Module-1_EXPRESSIONS/2.%20Expressions%20fondamentales.md)
   - [L'argument (t)](FORMATIONAE-2026/Module-1_EXPRESSIONS/3.%20L'argument%20(t).md)
   - [Les tableaux ARRAYS](FORMATIONAE-2026/Module-1_EXPRESSIONS/4.%20Les%20tableaux%20ARRAYS.md)
