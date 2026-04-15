@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/07. Conditions et logique.md",
+                "file": "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07. Conditions et logique"
+              "title": "2. Local space vs World space"
             }
           }
         ],
@@ -228,10 +228,11 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace , toWorld et fromWorld.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/07. Conditions et logique.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/10. Expressions AE et IA.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/09. Optimiser ses expressions.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/08. Les fonctions mathématiques utiles.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/07. Conditions et logique.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/06. Des effets spécialement pour les Expressions.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/05. thisComp, thisLayer, thisProperty.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/04. Les tableaux ARRAYS.md",
@@ -255,7 +256,6 @@
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/1. Optimiser ses expressions.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/7. sourceText et données externes.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/9. Tracking et Leading par expression.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
     "FORMATIONAE-2026/images/proprietes.png",
     "FORMATIONAE-2026/images/pickwhip.png",
     "FORMATIONAE-2026/images/PushTheTempo.gif",
