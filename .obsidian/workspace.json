@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
+                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Null comme contrôleur général"
+              "title": "8. Text Animators et expressions combinées"
             }
           }
         ],
@@ -228,6 +228,10 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/02. Expressions fondamentales.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/03. L'argument (t).md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
     "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
     "FORMATIONAE-2026/Module-5_DES-EFFETS/6. Effets méconnus.md",
     "FORMATIONAE-2026/Module-5_DES-EFFETS/5. Particules et effets génératifs.md",
@@ -243,17 +247,13 @@
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/4. Chaînes de parenté complexes.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace, toWorld et fromWorld.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
-    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/9. Tracking et Leading par expression.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/7. sourceText et données externes.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/6. Expression Selector avancé.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2. Expression Selectors.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/1. Text Animators et Range Selector.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/10. Expressions AE et IA.md",
     "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS",
     "FORMATIONAE-2026/Module-5_DES-EFFETS",
     "FORMATIONAE-2026/images/proprietes.png",
