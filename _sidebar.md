@@ -26,7 +26,7 @@
 - **Module 3 — NULL-ET-PARENTING**
   - [Null comme contrôleur général](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1.%20Null%20comme%20contrôleur%20général.md)
   - [Local space vs World space](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2.%20Local%20space%20vs%20World%20space.md)
-  - [Conversions d'espace — toWorld et fromWorld](3.%20Conversions%20d'espace%20-%20toWorld%20et%20fromWorld.md)
+  - [Conversions d'espace, toWorld et fromWorld](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3.%20Conversions%20d'espace,%20toWorld%20et%20fromWorld.md)
   - [Chaînes de parenté complexes](FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/4.%20Chaînes%20de%20parenté%20complexes.md)
 
 - **Module 4 — SHAPES-ET-MASQUES**
