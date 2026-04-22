@@ -65,7 +65,7 @@
       width: 0;
       height: 0;
       border-style: solid;
-      border-width: 7px 0 7px 11px;
+      border-width: 10px 0 10px 16px;
       border-color: transparent transparent transparent #E63030;
     }
     h3 {
@@ -84,7 +84,7 @@
     /* --- Sidebar --- */
     .sidebar {
       background-color: #f5f5ff;
-      border-right: 2px solid #9999FF;
+      border-right: 3px solid #E63030;
       width: 350px !important;
     }
     .sidebar ul li {
@@ -169,9 +169,15 @@ pre code {
       overflow: hidden;
       pointer-events: none;
       z-index: 100;
+      opacity: 0;
+      transition: opacity 0.4s ease;
     }
     .deco-header { top: 0; }
     .deco-footer { bottom: 0; }
+    .deco-header.visible,
+    .deco-footer.visible {
+      opacity: 1;
+    }
 
     .deco-header svg,
     .deco-footer svg {
@@ -334,5 +340,64 @@ pre code {
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script>
+    // Affichage des décorations selon la position de scroll
+    (function () {
+      const THRESHOLD_TOP = 80;    // px depuis le haut
+      const THRESHOLD_BOTTOM = 80; // px depuis le bas
+
+      const header = document.querySelector('.deco-header');
+      const footer = document.querySelector('.deco-footer');
+
+      // La zone scrollable dans Docsify est .content ou window
+      function getScrollTarget() {
+        return document.querySelector('.content') || window;
+      }
+
+      function onScroll() {
+        const el = document.querySelector('.content');
+        let scrollTop, scrollHeight, clientHeight;
+
+        if (el) {
+          scrollTop    = el.scrollTop;
+          scrollHeight = el.scrollHeight;
+          clientHeight = el.clientHeight;
+        } else {
+          scrollTop    = window.scrollY;
+          scrollHeight = document.body.scrollHeight;
+          clientHeight = window.innerHeight;
+        }
+
+        const atTop    = scrollTop <= THRESHOLD_TOP;
+        const atBottom = scrollTop + clientHeight >= scrollHeight - THRESHOLD_BOTTOM;
+
+        header && header.classList.toggle('visible', atTop);
+        footer && footer.classList.toggle('visible', atBottom);
+      }
+
+      // Écoute sur window ET sur .content (Docsify scroll interne)
+      window.addEventListener('scroll', onScroll, { passive: true });
+
+      // Docsify charge le contenu dynamiquement — on ré-attache sur .content après init
+      document.addEventListener('DOMContentLoaded', function () {
+        onScroll(); // état initial
+        const contentEl = document.querySelector('.content');
+        if (contentEl) {
+          contentEl.addEventListener('scroll', onScroll, { passive: true });
+        }
+      });
+
+      // Ré-attache aussi après navigation Docsify (changement de page)
+      window.addEventListener('hashchange', function () {
+        setTimeout(function () {
+          const contentEl = document.querySelector('.content');
+          if (contentEl) {
+            contentEl.addEventListener('scroll', onScroll, { passive: true });
+          }
+          onScroll();
+        }, 300);
+      });
+    })();
+  </script>
 </body>
 </html>
