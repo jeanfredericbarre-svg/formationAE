@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
+                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/01. Les bases et la syntaxe.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "8. Text Animators et expressions combinées"
+              "title": "01. Les bases et la syntaxe"
             }
           }
         ],
@@ -228,9 +228,11 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "index.html",
+    "OLD_index.html",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/02. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/03. L'argument (t).md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
     "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
     "FORMATIONAE-2026/Module-5_DES-EFFETS/6. Effets méconnus.md",
@@ -253,7 +255,6 @@
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
     "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2. Expression Selectors.md",
     "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS",
     "FORMATIONAE-2026/Module-5_DES-EFFETS",
     "FORMATIONAE-2026/images/proprietes.png",
@@ -265,7 +266,6 @@
     "FORMATIONAE-2026/Module-5_WORFLOW",
     "gitignore",
     "_exemples-ae/Module-1_01-bases.aep",
-    "_exemples-ae",
-    "dossier sans titre"
+    "_exemples-ae"
   ]
 }
