@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FORMATIONAE-2026/Module-1_EXPRESSIONS/01. Les bases et la syntaxe.md",
+                "file": "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/3. Repeater et contrôle procédural.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "01. Les bases et la syntaxe"
+              "title": "3. Repeater et contrôle procédural"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 276.5
   },
   "right": {
     "id": "bbdc42d571fd0f0b",
@@ -228,33 +228,34 @@
   },
   "active": "126abfcb1ff9e023",
   "lastOpenFiles": [
+    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2. Trim Paths.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/9. Tracking et Leading par expression.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/6. Expression Selector avancé.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/09. Optimiser ses expressions.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/07. Conditions et logique.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/06. Des effets spécialement pour les Expressions.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/05. thisComp, thisLayer, thisProperty.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/04. Les tableaux ARRAYS.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/02. Expressions fondamentales.md",
+    "FORMATIONAE-2026/Module-5_DES-EFFETS/6. Effets méconnus.md",
+    "FORMATIONAE-2026/Module-5_DES-EFFETS/5. Particules et effets génératifs.md",
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace, toWorld et fromWorld.md",
+    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
+    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/2. Expression Selectors.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/08. Les fonctions mathématiques utiles.md",
+    "FORMATIONAE-2026/Module-1_EXPRESSIONS/01. Les bases et la syntaxe.md",
     "index.html",
     "OLD_index.html",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/8. Text Animators et expressions combinées.md",
-    "FORMATIONAE-2026/Module-1_EXPRESSIONS/02. Expressions fondamentales.md",
     "FORMATIONAE-2026/Module-1_EXPRESSIONS/03. L'argument (t).md",
     "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/1. Null comme contrôleur général.md",
     "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS/1. Astuces diverses.md",
-    "FORMATIONAE-2026/Module-5_DES-EFFETS/6. Effets méconnus.md",
-    "FORMATIONAE-2026/Module-5_DES-EFFETS/5. Particules et effets génératifs.md",
     "FORMATIONAE-2026/Module-5_DES-EFFETS/4. Modes de fusion et Track Matte.md",
     "FORMATIONAE-2026/Module-5_DES-EFFETS/3. Correction colorimétrique.md",
     "FORMATIONAE-2026/Module-5_DES-EFFETS/2. Distorsion et déformation.md",
     "FORMATIONAE-2026/Module-5_DES-EFFETS/1. Flous et motion blur.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/5. Modificateurs de forme et Merge Paths.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/4. Masques de découpe et Track Matte avec shapes.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/3. Repeater et contrôle procédural.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/2. Trim Paths.md",
-    "FORMATIONAE-2026/Module-4_SHAPES-ET-MASQUES/1. Avantages.md",
-    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/4. Chaînes de parenté complexes.md",
-    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/3. Conversions d'espace, toWorld et fromWorld.md",
-    "FORMATIONAE-2026/Module-3_NULL-ET-PARENTING/2. Local space vs World space.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/9. Tracking et Leading par expression.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/7. sourceText et données externes.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/6. Expression Selector avancé.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/5. Animation sur chemin et animations de paragraphe.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/4. Animations de caractères.md",
-    "FORMATIONAE-2026/Module-2_ANIMATION-TEXTE/3. sourceText et contenu dynamique.md",
     "FORMATIONAE-2026/Module-6_ASTUCES-RACCOURCIS",
     "FORMATIONAE-2026/Module-5_DES-EFFETS",
     "FORMATIONAE-2026/images/proprietes.png",
@@ -265,7 +266,6 @@
     "FORMATIONAE-2026/Module-6_PERFORMANCES",
     "FORMATIONAE-2026/Module-5_WORFLOW",
     "gitignore",
-    "_exemples-ae/Module-1_01-bases.aep",
-    "_exemples-ae"
+    "_exemples-ae/Module-1_01-bases.aep"
   ]
 }
